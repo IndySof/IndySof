@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IndySof
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning at CESI Nice
 - 💞️ I’m looking to collaborate with my friends.
 - 📫 How to reach me ... ?
 
