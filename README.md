@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @IndySof
-- 👀 I’m interested in everything
-- 💞️ I’m looking to collaborate with my friends.
+Obviously, it is called **README**, so you are **reading** me now<br>
 
-<!---
-IndySof/IndySof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
